@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "test1"
+echo "test for git traning"
